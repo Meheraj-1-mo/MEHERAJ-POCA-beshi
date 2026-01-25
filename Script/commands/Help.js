@@ -41,12 +41,12 @@ module.exports.languages = {
     }
 };
 
-// 🔹 এখানে আপনার ফটো Imgur লিংক করে বসাবেন ✅
+https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg
 const helpImages = [
-    "https://i.imgur.com/sxSn1K3.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/8WvpgUL.jpeg",
-    "https://i.imgur.com/sxSn1K3.jpeg"
+    "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
+    "https://i.postimg.cc/RZRvgXW3/Express-collage.png",
+    "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
+    "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg"
 ];
 
 
