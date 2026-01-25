@@ -29,17 +29,17 @@ module.exports.run = async function ({ api, event }) {
  const finalText = `╔═══❖ 🌟 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐋𝐈𝐒𝐓 🌟 ❖═══╗
 ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ╠═════🔰 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🔰═════╣
-║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭
-║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+║ 🤖 𝐁𝐨𝐭: ─꯭─⃝‌‌𝐌 𝐄 𝐇 𝐄 𝐑 𝐀 𝐉 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓
+║ 👑 𝐎𝐰𝐧𝐞𝐫: 𝐌 𝐄 𝐇 𝐄 𝐑 𝐀 𝐉˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length} 
 ╚═══════════════════════╝`;
 
  
  const backgrounds = [
- "https://i.imgur.com/wu0iDqS.jpeg",
- "https://i.imgur.com/zqsuJnX.jpeg",
- "https://i.imgur.com/Huz3nAE.png",
- "https://i.imgur.com/wu0iDqS.jpeg"
+ "https://i.postimg.cc/RZRvgXW3/Express-collage.png",
+ "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
+ "https://i.postimg.cc/bwDQbCLm/a601ea9bfc03a72b93f2007ae02d7aa1.jpg",
+ "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg"
  ];
  const selectedBg = backgrounds[Math.floor(Math.random() * backgrounds.length)];
  const imgPath = __dirname + "/cache/helpallbg.jpg";
