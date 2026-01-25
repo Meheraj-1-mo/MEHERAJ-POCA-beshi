@@ -44,7 +44,7 @@ module.exports.languages = {
 https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg
 const helpImages = [
     "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
-    "https://i.postimg.cc/RZRvgXW3/Express-collage.png",
+    "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
     "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg",
     "https://i.postimg.cc/JzBBNFcw/612621109-896418862914522-7066807854355757624-n.jpg"
 ];
