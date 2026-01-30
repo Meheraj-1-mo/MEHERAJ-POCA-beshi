@@ -5,7 +5,8 @@
 
 
 Assalamualaikum Everyone!  
-**Welcome to My MEHERAJ CHAT BOT Fork!**
+**Welcome to My 𝗠𝗲𝗵𝗲𝗿𝗮𝗷 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁 𝗙𝗼𝗿𝗸
+!**
 
 ![Box-shaped Image](https://i.postimg.cc/Prr6g9X9/Shizuka-Beb.png)
 
@@ -154,7 +155,7 @@ ___
 **Location:** **`CHITTAGONG, BANGLADESH`**  
 
 ### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[PERSONAL)**  
+- **WhatsApp:** **[01869132556)**  
 - **Facebook:** **[Facebook ID](https://www.facebook.com/junghoseog.2025)**    
 
 ### 🚀 **DEVELOPMENT APPROACH**  
@@ -188,14 +189,14 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ## ✨🌟 Special Thanks 🌟✨
 
-- 🚀 **mo Bot Team**  
+- 🚀 **Mo Bot Team**  
 - 🧙‍♂️ **Meheraj (Owner Cyber Bot Team)**
 - 🛡️ **MEHERAJ (Admin Cyber Bot Team)**
 - 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
 
 ---
 
-💖 **Thank You For Choosing MEHERAJ 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing 𝗠𝗲𝗵𝗲𝗿𝗮𝗷 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
